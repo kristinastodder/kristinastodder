@@ -42,7 +42,7 @@ section:nth-of-type(odd) {
 }
 
 section:first-of-type {
-  background-image: url("images/background.jpg");
+  background-image: url("kristinastodder.github.io/images/background.jpg");
   text-align: center;
   font-family: 'Lato', sans-serif;
   color: #fff; 
